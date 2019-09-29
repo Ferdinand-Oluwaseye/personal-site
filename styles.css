@@ -1,0 +1,24 @@
+p{
+    color: orange
+}
+
+
+.main-container{
+    background-image: url(./img/back-image.jpg);
+    position: absolute;
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 0;
+    background-size: cover
+
+}
+
+.text-container{
+    text-align: center;
+    font-size: 425%;
+    margin-top: 14%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
