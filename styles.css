@@ -1,5 +1,5 @@
 p{
-    color: orange
+    color: #fc5203
 }
 
 
@@ -21,4 +21,5 @@ p{
     margin-bottom: 10%;
     margin-right: 10%;
     margin-left: 10%;
+    font-family: cursive
 }
