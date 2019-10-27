@@ -42,6 +42,20 @@
     margin: 0%;
 }
 
+text-container-3{
+    font-size: 200%;
+    margin: 0%;
+    float: left;
+    text-align: left;
+}
+
+text-container-4{
+    font-size: 150%;
+    margin: 0%;
+    float: left;
+    text-align: left;
+}
+
 .job-container{
     font-size: -200%;
 }
@@ -49,6 +63,12 @@
     margin-top: 14%;
     margin-bottom: 10%;
     text-align: center;
+}
+
+.content-container-2{
+    margin-top: 14%;
+    margin-bottom: 10%;
+    text-align: left;
 }
 
 .contact-container{
@@ -64,8 +84,9 @@ ul{
 }
 
 li{
-    float: left;
-    margin-left: 4%;
+    /* float: left;
+    margin-left: 4%; */
+    padding-bottom: 6%;
 }
 
 
